@@ -1,7 +1,0 @@
-PETUNJUK PENGGUNAAN
-
-1. Setelah di build lalu di run, akan muncul halaman play. Klik logo play nya.
-2. Akan muncul countdown dari 3,2,1. Tunggu saja countdownnya selesai.
-3. Setelah countdown selesai akan muncul halaman utama.
-4. Untuk pengalaman yang lebih bagus, tekan tombol M untuk mengaktifkan mode frenzy.
-5. Untuk membatalkan mode frenzy, tekan tombol N.
